@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ae625067b72b4eb30a0c0a07a5507, type: 3}
+  m_Name: Feu_Pro
+  m_EditorClassIdentifier: Assembly-CSharp::Data_Spell
+  _spellName: Feu
+  _spellDescription: Feu de caca une arme leg
+  _spellIcon: {fileID: 21300000, guid: e6662b1506d300640a4172a2a1866960, type: 3}
+  _spellDamage: 5
+  _spellCooldown: 2
+  _spellLifetime: 3
+  _ProjectilePrefab: {fileID: 7063496483336903210, guid: 9dc61f3e95bb5344c9843bd93897e45a, type: 3}
+  _projectileSpeed: 15
+  _SpellImpactPrefab: {fileID: 7275548786892498063, guid: 5bc9a0bf98f67d240a936bf476ba2082, type: 3}
+  _AnimationTrigger: {fileID: 0}
